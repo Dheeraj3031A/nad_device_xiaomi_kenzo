@@ -18,5 +18,6 @@ PRODUCT_MAKEFILES := \
     $(LOCAL_DIR)/nad_kenzo.mk
 
 COMMON_LUNCH_CHOICES := \
+    nad_kenzo-user \
     nad_kenzo-userdebug \
     nad_kenzo-eng
