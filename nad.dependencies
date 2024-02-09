@@ -1,24 +1,6 @@
 [
   {
     "remote": "github",
-    "repository": "MocaRafee/device_bloatware",
-    "target_path": "device/bloatware",
-    "branch": "kenzo"
-  },
-  {
-    "remote": "ghpriv",
-    "repository": "MocaRafee/kernel_msm8956",
-    "target_path": "kernel/xiaomi/msm8956",
-    "branch": "ten_dev"
-  },
-  {
-    "remote": "ghpriv",
-    "repository": "MocaRafee/aandroid_device_xiaomi_sdm660-common",
-    "target_path": "packages/apps/meinparts",
-    "branch": "meinekenzur"
-  },
-  {
-    "remote": "github",
     "repository": "MocaRafee/gcc-linaro-6.5.0-2018.12-linux_linaro",
     "target_path": "peko",
     "branch": "master"
@@ -31,14 +13,14 @@
   },
   {
     "remote": "github",
+    "repository": "Dheeraj3031A/kernel_xiaomi_kenzo",
+    "target_path": "kernel/xiaomi/kenzo",
+    "branch": "Optimus-Kernel"
+  },
+  {
+    "remote": "github",
     "repository": "MocaRafee/unified_vendor_xiaomi_kenzo",
     "target_path": "vendor/xiaomi/kenzo",
     "branch": "ten"
-  },
-  {
-    "remote": "priv",
-    "repository": "android_packages_apps_NusantaraPapers",
-    "target_path": "packages/apps/NusantaraPapers",
-    "branch": "10"
   }
 ]
