@@ -14,10 +14,9 @@
 # limitations under the License.
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/aosp_kenzo.mk \
-    $(LOCAL_DIR)/nad_kenzo.mk
+    $(LOCAL_DIR)/rr_kenzo.mk
 
 COMMON_LUNCH_CHOICES := \
-    nad_kenzo-user \
-    nad_kenzo-userdebug \
-    nad_kenzo-eng
+    rr_kenzo-user \
+    rr_kenzo-userdebug \
+    rr_kenzo-eng
